@@ -39,6 +39,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="OuyaAuthenticationHelper.cs" />
+    <Compile Include="OuyaController.cs" />
     <Compile Include="OuyaFacade.cs" />
     <Compile Include="OuyaRequestException.cs" />
     <Compile Include="ProductListListener.cs" />
